@@ -110,7 +110,7 @@
   }
   
   .add-task-btn {
-    background-color: #4caf50;
+    background-color: #2980b9;
     color: white;
     border: none;
     padding: 8px 16px;
@@ -119,7 +119,7 @@
   }
   
   .add-task-btn:hover {
-    background-color: #45a049;
+    background-color: #2980b9;
   }
   
   .add-btn {
@@ -157,7 +157,7 @@
   
   
   .save-btn {
-    background-color: #4caf50;
+    background-color: #2980b9;
     color: white;
     border: none;
     padding: 5px 10px;
@@ -166,6 +166,6 @@
   }
   
   .save-btn:hover {
-    background-color: #45a049;
+    background-color: #2980b9;
   }
   
